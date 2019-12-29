@@ -1,2 +1,2 @@
 # TrendPower
-Trend Power EA
+Trend Power EA Versions
